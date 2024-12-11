@@ -1,2 +1,2 @@
 # DetectorSinal
-Esse script serve para ler valores de entrada do MCP23017 conectado a uma RaspberryPi 3 em python
+Esse script faz com que todas as portas do GPIO do MCP23017 sejam configuradas como entradas e realiza verificação de sinal nas mesmas.
